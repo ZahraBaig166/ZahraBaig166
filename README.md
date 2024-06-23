@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**ZahraBaig166/ZahraBaig166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zahra Baig, a Computer Science student with a specialization in Data Science and Machine Learning. Currently pursuing my BCS at COMSATS University, Lahore. I have a keen interest in turning data into actionable insights and applying machine learning techniques to solve real-world problems. Eager to contribute to challenging projects and grow in a dynamic environment.
 
-Here are some ideas to get you started:
+# Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📍 Location
+
+Pakistan
+
+## 📧 Email
+
+zahrabaig166@gmail.com
+
+## 🔗 LinkedIn
+
+[linkedin.com/in/ZahraBaig166](https://www.linkedin.com/in/ZahraBaig166)
+
+# Languages
+Python, SQL, Cypher, MATLAB, and HTML. 
+
+# Skills
+  - Data Visualization: Matplotlib, Power BI
+  - Statistical Modeling
+  - Data Preprocessing
+  - Machine Learning: TensorFlow, Scikit-learn
+  - Database Structuring & Algorithms: MySQL, SQL, MongoDB, Neo4j
+  - Data Wrangling
+
