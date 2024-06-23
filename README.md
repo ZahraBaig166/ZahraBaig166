@@ -11,7 +11,7 @@ I'm Zahra Baig, a Computer Science student with a specialization in Data Science
 ### 🔗 [ZahraBaig166](https://www.linkedin.com/in/ZahraBaig166)
 
 ## Languages
-Python, SQL, Cypher, MATLAB, and HTML. 
+Python, SQL, Cypher, MATLAB, HTML, CSS, JS, TS, C/C++ /C#, JAVA/JAVAFX
 
 ## Skills
   - Data Visualization: Matplotlib, Power BI
