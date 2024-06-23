@@ -4,11 +4,11 @@ I'm Zahra Baig, a Computer Science student with a specialization in Data Science
 
 ## Contact me
 
-###📍Pakistan
+### 📍Pakistan
 
-###📧 zahrabaig166@gmail.com
+### 📧 zahrabaig166@gmail.com
 
-###🔗 [ZahraBaig166](https://www.linkedin.com/in/ZahraBaig166)
+### 🔗 [ZahraBaig166](https://www.linkedin.com/in/ZahraBaig166)
 
 ## Languages
 Python, SQL, Cypher, MATLAB, and HTML. 
